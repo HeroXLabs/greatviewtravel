@@ -7,38 +7,42 @@ body {
   background-color: #ffffff;
   color: #333333; }
   /* line 31, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+  body p.lead {
+    font-size: 1.8em;
+    font-weight: 700; }
+  /* line 36, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
   body.navbar-shrink-margin {
     padding-top: 0px; }
-  /* line 35, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+  /* line 40, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
   body a.block {
     display: block; }
-    /* line 37, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+    /* line 42, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
     body a.block img {
       width: 100%; }
-  /* line 40, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+  /* line 45, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
   body p {
     line-height: 1.6em;
     font-size: 1em;
     margin: 0 0 15px; }
-  /* line 46, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+  /* line 51, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
   body h4 {
     margin: 10px 0 20px 0;
     font-weight: bold; }
-  /* line 51, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+  /* line 56, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
   body .col-right {
     float: right; }
-  /* line 55, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+  /* line 60, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
   body .list-row {
     margin-bottom: 30px; }
-  /* line 59, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+  /* line 64, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
   body ol, body ul {
     font-size: 1.1em;
     line-height: 1.8em; }
-  /* line 65, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+  /* line 70, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
   body .img-col img {
     margin-bottom: 30px; }
 
-/* line 71, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 76, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 .monolog {
   display: block;
   position: fixed;
@@ -51,11 +55,11 @@ body {
   overflow-x: hidden;
   overflow-y: auto; }
 
-/* line 84, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 89, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 .owl-carousel-container {
   overflow: hidden;
   margin-bottom: 30px; }
-  /* line 87, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+  /* line 92, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
   .owl-carousel-container .carousel-item img {
     transform: scale(1);
     -ms-transform: scale(1);
@@ -66,39 +70,39 @@ body {
     -webkit-transition: all 2s cubic-bezier(0.23, 1, 0.32, 1) 0s;
     -o-transition: all 2s cubic-bezier(0.23, 1, 0.32, 1) 0s; }
 
-/* line 99, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 104, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 section {
   background-color: #ffffff; }
-  /* line 102, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+  /* line 107, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
   section header h1 {
     margin-top: 0;
     margin-bottom: 50px; }
 
-/* line 109, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 114, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 section.page-section {
   padding: 60px 0; }
 
-/* line 113, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 118, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 footer#main-footer {
   background: #222;
   color: #fff;
   padding: 10px 0; }
-  /* line 117, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+  /* line 122, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
   footer#main-footer p {
     margin: 0; }
 
-/* line 122, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 127, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 figure {
   position: relative;
   margin-bottom: 30px; }
-  /* line 125, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+  /* line 130, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
   figure a {
     display: block; }
-  /* line 128, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+  /* line 133, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
   figure img {
     vertical-align: middle; }
 
-/* line 133, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 138, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 figcaption {
   position: absolute;
   bottom: 10%;
@@ -109,129 +113,129 @@ figcaption {
   text-align: center; }
 
 @media only screen and (max-width: 768px) {
-  /* line 144, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+  /* line 149, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
   .col-right {
     float: left; }
 
-  /* line 145, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+  /* line 150, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
   figcaption {
     font-size: 1.1em;
     line-height: 1.3em; } }
-/* line 151, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 156, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 .no-padding {
   padding: 0; }
 
-/* line 156, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 161, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 section.about-cols-tmpl .header h2 {
   margin-bottom: 30px; }
-/* line 159, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 164, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 section.about-cols-tmpl .header p {
   margin-bottom: 40px;
   color: #333333; }
-/* line 163, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 168, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 section.about-cols-tmpl .header img {
   margin: 0 auto;
   margin-bottom: 20px; }
-/* line 169, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 174, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 section.about-cols-tmpl .card {
   margin-bottom: 20px; }
-/* line 172, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 177, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 section.about-cols-tmpl img {
   overflow: hidden;
   height: 240px; }
-/* line 176, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 181, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 section.about-cols-tmpl h3, section.about-cols-tmpl h4 {
   font-size: 1.1em;
   margin-bottom: 10px; }
-/* line 180, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 185, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 section.about-cols-tmpl p {
   color: #777;
   font-size: 1em; }
 
 @media only screen and (max-width: 992px) {
-  /* line 188, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+  /* line 193, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
   section.about-cols-tmpl img {
     height: 440px;
     width: 100%; } }
 @media only screen and (max-width: 760px) {
-  /* line 197, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+  /* line 202, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
   section.about-cols-tmpl img {
     width: 100%;
     height: 220px; } }
-/* line 205, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 210, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 section.info-cols-tmpl {
   background: #8ef1ff; }
-  /* line 207, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+  /* line 212, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
   section.info-cols-tmpl i {
     margin-top: 12px;
     font-size: 1.6em; }
-  /* line 211, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+  /* line 216, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
   section.info-cols-tmpl h3, section.info-cols-tmpl h4 {
     font-size: 1.3em; }
-  /* line 214, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+  /* line 219, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
   section.info-cols-tmpl p {
     font-size: 1em; }
-  /* line 217, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+  /* line 222, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
   section.info-cols-tmpl .info-col {
     margin-bottom: 15px; }
-  /* line 220, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+  /* line 225, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
   section.info-cols-tmpl .info-col-icon {
     text-align: right; }
 
-/* line 225, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 230, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 section.events-tmpl {
   background-color: #222;
   color: #fff;
   padding: 0; }
-  /* line 229, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+  /* line 234, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
   section.events-tmpl .col-content {
     padding: 40px; }
-    /* line 231, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+    /* line 236, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
     section.events-tmpl .col-content h2 {
       margin-top: 0;
       margin-bottom: 20px; }
 
-/* line 239, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 244, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 section.two-cols-tmpl p {
   color: #777; }
 
-/* line 244, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 249, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 section.highlights-tmpl {
   background-color: #70C1B3;
   color: #fff; }
-  /* line 248, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+  /* line 253, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
   section.highlights-tmpl .highlights-content h2 {
     margin-top: 0px;
     margin-bottom: 20px; }
-  /* line 254, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+  /* line 259, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
   section.highlights-tmpl .highlights-icons > .row {
     margin-bottom: 20px; }
-  /* line 259, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+  /* line 264, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
   section.highlights-tmpl .highlights-text h2, section.highlights-tmpl .highlights-text h3, section.highlights-tmpl .highlights-text h4 {
     margin: 5px 0;
     font-size: 1.2em; }
-  /* line 264, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+  /* line 269, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
   section.highlights-tmpl .highlights-icon {
     text-align: right; }
-    /* line 266, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+    /* line 271, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
     section.highlights-tmpl .highlights-icon i {
       font-size: 2em;
       margin-top: 5px; }
 
-/* line 274, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 279, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 .owl-buttons {
   position: static; }
 
-/* line 278, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 283, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 .owl-carousel.white .owl-controls .owl-page span {
   background: none repeat scroll 0 0 #fff; }
 
-/* line 282, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 287, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 .owl-carousel.white .owl-controls .owl-page.active span {
   background: transparent;
   border: 2px solid #fff; }
 
-/* line 290, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 295, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 .nf-carousel-theme .owl-controls .owl-pagination {
   position: absolute;
   z-index: 2;
@@ -240,7 +244,7 @@ section.highlights-tmpl {
   width: 100%;
   margin-top: 15px; }
 
-/* line 299, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 304, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 .nf-carousel-theme .owl-controls .owl-buttons .owl-prev,
 .nf-carousel-theme .owl-controls .owl-buttons .owl-next {
   width: 31px;
@@ -249,7 +253,7 @@ section.highlights-tmpl {
   font-size: 16px;
   margin-top: -15px; }
 
-/* line 308, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 313, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 .content-carousel .owl-controls .owl-buttons .owl-prev,
 .content-carousel .owl-controls .owl-buttons .owl-next,
 .image-slider .owl-controls .owl-buttons .owl-prev,
@@ -270,7 +274,7 @@ section.highlights-tmpl {
   position: absolute;
   text-align: center; }
 
-/* line 329, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 334, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 .content-carousel .owl-controls .owl-buttons .owl-prev:hover,
 .content-carousel .owl-controls .owl-buttons .owl-next:hover,
 .image-slider .owl-controls .owl-buttons .owl-prev:hover,
@@ -282,26 +286,26 @@ section.highlights-tmpl {
   /*background: #fff;*/
   color: #e6ae49; }
 
-/* line 341, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 346, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 .content-carousel .owl-controls .owl-buttons .owl-next,
 .image-slider .owl-controls .owl-buttons .owl-next,
 .fullwidth-slider .owl-controls .owl-buttons .owl-next,
 .nf-carousel-theme .owl-controls .owl-buttons .owl-next {
   right: 0; }
 
-/* line 348, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 353, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 .nf-carousel-theme .owl-controls .owl-buttons .owl-prev {
   left: 0;
   margin-left: -51px;
   opacity: 0; }
 
-/* line 354, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 359, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 .nf-carousel-theme .owl-controls .owl-buttons .owl-next {
   right: 0;
   margin-right: -51px;
   opacity: 0; }
 
-/* line 360, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 365, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 .content-carousel:hover .owl-controls .owl-buttons .owl-prev,
 .content-carousel:hover .owl-controls .owl-buttons .owl-next,
 .image-slider:hover .owl-controls .owl-buttons .owl-prev,
@@ -317,7 +321,7 @@ section.highlights-tmpl {
 /* -------------------------------------*/
 /* Singel Item slider (Images & Contant Slider) ---------*/
 /* -------------------------------------*/
-/* line 376, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 381, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 .content-carousel .owl-controls .owl-pagination,
 .image-slider .owl-controls .owl-pagination,
 .fullwidth-slider .owl-controls .owl-pagination,
@@ -330,7 +334,7 @@ section.highlights-tmpl {
   text-align: center;
   width: 100%; }
 
-/* line 389, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 394, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 .content-carousel .owl-controls .owl-buttons .owl-prev,
 .content-carousel .owl-controls .owl-buttons .owl-next,
 .image-slider .owl-controls .owl-buttons .owl-prev,
@@ -343,7 +347,7 @@ section.highlights-tmpl {
   font-size: 21px;
   margin-top: -25px; }
 
-/* line 402, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 407, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 .content-carousel .owl-controls .owl-buttons .owl-prev,
 .image-slider .owl-controls .owl-buttons .owl-prev,
 .fullwidth-slider .owl-controls .owl-buttons .owl-prev {
@@ -351,7 +355,7 @@ section.highlights-tmpl {
   margin-left: -51px;
   opacity: 0; }
 
-/* line 410, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 415, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 .content-carousel .owl-controls .owl-buttons .owl-next,
 .image-slider .owl-controls .owl-buttons .owl-next,
 .fullwidth-slider .owl-controls .owl-buttons .owl-next {
@@ -359,7 +363,7 @@ section.highlights-tmpl {
   margin-right: -51px;
   opacity: 0; }
 
-/* line 418, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
+/* line 423, /home/deployer/middle_girl_sites/sites/lai-ke-rui-travel/source/assets/stylesheets/_index_theme.scss.erb */
 #home-intro .fullscreen-carousel .overlay-hero .caption-hero .inner-caption {
   color: #fff; }
 
